@@ -6,7 +6,7 @@ dataSources:
     name: RandomWinnerGame
     network: mumbai
     source:
-      address: "0x9A4DC098A4ec0dc35263B047b99c6d29911Fc5E4"
+      address: "0xFe45cFf07841173b0b8cB47C5823333B9583058a"
       abi: RandomWinnerGame
       startBlock: 40645615
     mapping:
